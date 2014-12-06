@@ -1,0 +1,50 @@
+h1 {
+  color: White;
+  font-size: 30px;
+  text-align: center;
+  font-family: "Impact";
+}
+
+p {
+  font-weight: ;
+  text-align: ;
+}
+
+img {
+  border-radius: 100px;
+}
+
+
+body {
+  background-image:url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/04/space-wallpapers-4.jpg");
+  
+}
+
+.planet {
+  margin-left: 100px;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    background-color: #008800;
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#003500), to(#008800));
+    background-image: -webkit-linear-gradient(left, #8D0000, #008800); 
+    background-image:    -moz-linear-gradient(left, #8D0000, #008800);
+    background-image:     -ms-linear-gradient(left, #8D0000, #008800);
+    background-image:      -o-linear-gradient(left, #8D0000, #008800);
+}
+
+.planet-right {
+    float: right;
+    height: 200px;
+    width: 200px;
+    margin-right: 200px;
+    border-radius: 100%;
+    background-color: #008800;
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#003500), to(#008800));
+    background-image: -webkit-linear-gradient(left, #8D0000, #008800); 
+    background-image:    -moz-linear-gradient(left, #8D0000, #008800);
+    background-image:     -ms-linear-gradient(left, #8D0000, #008800);
+    background-image:      -o-linear-gradient(left, #8D0000, #008800);
+}
+
+
